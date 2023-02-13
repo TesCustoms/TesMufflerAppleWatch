@@ -1,9 +1,12 @@
-//
-//  TesMufflerWatchAppApp.swift
-//  TesMufflerWatchApp Watch App
-//
-//  Created by Hollis Kwan on 2/13/23.
-//
+/*
+ __authors__    = ["Hollis Kwan"]
+ __date__       = 2023/02/13
+ __deprecated__ = False
+ __doc__        = TesMufflerWatchApp's Content View setup
+ __email__      = "holliskwan.ios@gmail.com"
+ __license__    = "MIT"
+ __status__     = "Development"
+ */
 
 import SwiftUI
 
