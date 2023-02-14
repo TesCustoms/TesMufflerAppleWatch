@@ -1,34 +1,27 @@
-# TesCustoms Apple Watch App
-
-The TesCustoms Apple Watch app enables users to customize muffler sounds for their hybrid or electric vehicles using our proprietary custom hardware dongle, all from the convenience of their wrist.
-
 # Getting Started
 
-To get started with the TesCustoms Apple Watch app, follow these steps:
+ To get started with the TesCustoms Apple Watch app, follow these steps:
 
-* *Install the app on your Apple Watch.*
+ * *Install the app on your Apple Watch.*
 
-* *Launch the app on your watch and select your electric car model.*
+ * *Launch the app on your watch to connect with the Raspberry Pi in your car.*
 
-* *Choose the muffler sound that you want to use from the app's library.*
+ * *The app will retrieve the VIN, Make, Model, and year of your electric car from the Raspberry Pi automatically.*
 
-* *Save your selection and enjoy your customized muffler sound while driving.*
+ * *Choose the muffler sound that you want to use from the app's library.*
 
-# Features
+ * *Save your selection and enjoy your customized muffler sound while driving.*
 
-* *Stand-alone Apple Watch app.*
+ # Features
 
-* *Customizable muffler sounds for any hybrid or electric cars.*
+ * *Stand-alone Apple Watch app.*
 
-* *Easy to use interface on your wrist.*
+ * *Customizable muffler sounds for any hybrid or electric cars.*
 
-# Website
+ * *Easy to use interface on your wrist.*
 
-For more information regarding our company or products, please visit us at: 
+ # Website
 
-https://tescustoms.com
+ For more information regarding our company or products, please visit us at: 
 
-# License
-
-The TesCustoms Apple Watch app is licensed under the MIT License. See the LICENSE file for more information.
-
+ https://tescustoms.com
